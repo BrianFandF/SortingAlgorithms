@@ -1,0 +1,5 @@
+﻿  Sort.cpp
+D:\University\Алгоритми\Iw№4\Sort\Sort.cpp(111,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\University\Алгоритми\Iw№4\Sort\Sort.cpp(112,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\University\Алгоритми\Iw№4\Sort\Sort.cpp(216,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sort.vcxproj -> D:\University\Алгоритми\Iw№4\Sort\Debug\Sort.exe
